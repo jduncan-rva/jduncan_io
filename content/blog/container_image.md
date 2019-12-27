@@ -317,15 +317,10 @@ This is everything we need to have a practical understanding of how Docker creat
 ### Overview of Docker image creation
 
 1. Start with a base image. In our case the CentOS 7 base image.
-
 1. Creates a container with this image.
-
 1. Execute the next command in the Dockerfile or automated process.
-
 1. Capture the files changed from this command. This is called the changeset.
-
 1. Track a ton of metadata around what happened in this image. Including giving it a new UUID, the UUID of the container used to run the command (the parent), tracking labels and environment variables, the command that was run, information about the environment, etc.
-
 1. Capture the changeset in a tarball called layer.tar
 1. Capture the metadata in a file called json
 1. Create a file called VERSION that indicates the version of json schema that was used
