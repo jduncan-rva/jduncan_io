@@ -1,0 +1,9 @@
+figure img {
+    border-radius: 5px;
+    
+}
+
+figure figcaption {
+    font-size: xx-small;
+    font-style: italic;
+}

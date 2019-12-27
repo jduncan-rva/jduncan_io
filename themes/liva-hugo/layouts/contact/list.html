@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<section class="section-sm pb-0">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8 text-center">
+        <h2>{{ .Title | markdownify }}</h2>
+        <div class="content">
+          {{ .Content }}
+        </div>
+        <div class="row">
+          {{ range .Site.Params.social }}
+          <div class="col-lg-3 small-post-border">
+            <a href="{{ .link }}"><i class="h1 {{ .icon }} text-primary"></i></a>
+            <h5 class="font-weight-light my-3">{{ .title }}</h5>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

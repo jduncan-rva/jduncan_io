@@ -1,0 +1,7 @@
+<div class="media">
+    <img src={{ .Get "img" }} alt={{ .Get "alt" }} width={{ .Get "width" }} height={{ .Get "height" }}>
+    <div class="media-body">
+        <h5 class="mt-0">{{ .Get "title" }}</h5>
+        {{ .Inner | markdownify }}
+    </div>   
+</div>
