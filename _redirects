@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://jduncanio.netlify.com/* http://jduncan.io/:splat 301!
