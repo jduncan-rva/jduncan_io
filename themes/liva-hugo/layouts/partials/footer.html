@@ -68,7 +68,7 @@
         </ul>
       </div>
       <div class="col-12 border-top py-4 text-center">
-        {{ .Site.Params.copyright | markdownify }}
+        &copy;{{ dateFormat "2006" now }} {{ .Site.Params.author | markdownify }} - All Rights Reserved
       </div>
     </div>
   </div>
