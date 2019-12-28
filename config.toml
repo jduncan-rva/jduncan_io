@@ -26,6 +26,8 @@ disqusShortname = "jduncan-io"
   URL = "plugins/custom/custom.css"
   [[params.plugins.css]]
   URL = "https://fonts.googleapis.com/icon?family=Material+Icons"
+  [[params.plugins.css]]
+  URL = "plugins/custom/applause-button.css"
 
   # JS Plugins
   [[params.plugins.js]]
@@ -43,8 +45,7 @@ disqusShortname = "jduncan-io"
   [[params.plugins.js]]
   URL = "plugins/search/search.js"
   [[params.plugins.js]]
-  URL = "plugins/google-map/gmap.js"
-
+  URL = "plugins/custom/applause-button.js"
   
 ############################## navigation ###############################
 [menu]

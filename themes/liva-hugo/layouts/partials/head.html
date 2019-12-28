@@ -23,6 +23,8 @@
   <link rel="shortcut icon" href="{{ "images/favicon.png" | absURL }} " type="image/x-icon">
   <link rel="icon" href="{{ "images/favicon.png" | absURL }} " type="image/x-icon">
 
+  {{ template "_internal/twitter_cards.html" . }}
+
   {{ "<!--HightlightJS-->" | safeHTML }}
   <link rel="stylesheet"
   href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.17.1/build/styles/default.min.css">
