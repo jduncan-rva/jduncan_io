@@ -5,7 +5,7 @@ title = "jduncan.io | personal site and tech blog"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
-disqusShortname = ""
+disqusShortname = "jduncan-io"
 
 [outputs]
   home = ["HTML", "AMP", "RSS", "JSON"]
