@@ -12,10 +12,10 @@ tags:
   - automation
 
 # post type
-type: post
+type: featured
 ---
 
-My personal blog/writing platform has lived in a lot of places over the years. My dedication to contributing to it tends to come in spurts. It's lived on a lot of platforms over the years. Most recently it's been hosted on [https://medium.com/@jamieeduncan](Medium). I decided to migrate from Medium for a [https://nomedium.dev/](host of reasons) this post isn't going into and back to my own blog. I landed on using [https://gohugo.io/](Hugo) and hosting it on [https://www.netlify.com/](Netlify).
+My personal blog/writing platform has lived in a lot of places over the years. My dedication to contributing to it tends to come in spurts. It's lived on a lot of platforms over the years. Most recently it's been hosted on [Medium](https://medium.com/@jamieeduncan). I decided to migrate from Medium for a [hosts of reasons](https://nomedium.dev/) this post isn't going into and back to my own blog. I landed on using [Hugo](https://gohugo.io/) and hosting it on [Netlify](https://www.netlify.com/).
 
 My primary goal was to take some of my favorite posts from Medium and re-publish them on my new Hugo-powered blog. 
 
