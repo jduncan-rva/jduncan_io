@@ -1,5 +1,5 @@
 ---
-title: "Migrating a blog from Medium to Hugo"
+title: "Migrating from Medium to Hugo"
 date: 2019-12-28T09:41:49-05:00
 draft: false
 image: "/images/migrating_to_hugo/birds_migrating.jpg"
