@@ -1,2 +1,5 @@
-# Redirect default Netlify subdomain to primary domain
-http://jduncanio.netlify.com/* http://jduncan.io/:splat 301!
+# Redirect domain aliases to primary domain
+https://blog.jduncan.io/* https://jduncan.io/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://jduncanio.netlify.com/* https://jduncan.io/:splat 301!
