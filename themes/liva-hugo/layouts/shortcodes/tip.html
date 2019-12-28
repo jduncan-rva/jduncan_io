@@ -1,0 +1,8 @@
+<div class="admo">
+    <div class="admo-header text-uppercase">
+        <i class="material-icons">&#xe0c9;</i>  <span class="align-top">{{ .Get "title"}}</span>
+    </div>
+    <div class="admo-body">
+        {{ .Inner | markdownify }}
+    </div>
+</div>

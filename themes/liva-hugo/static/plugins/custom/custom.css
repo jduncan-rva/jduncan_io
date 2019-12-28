@@ -7,3 +7,24 @@ figure figcaption {
     font-size: xx-small;
     font-style: italic;
 }
+
+.admo {
+    /* border: 1px solid #3495D8; */
+    border-radius: 5px;
+    margin: 0px;
+    background-color: #E3F3FD;
+}
+
+.admo-header {
+    font-weight: bold;
+    background-color: #C0E5FB;
+    padding: 10px;
+    padding-bottom: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    /* color: white; */
+}
+
+.admo-body {
+    padding: 0px 20px 20px 20px;
+}

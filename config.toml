@@ -24,6 +24,8 @@ disqusShortname = ""
   URL = "plugins/venobox/venobox.css"
   [[params.plugins.css]]
   URL = "plugins/custom/custom.css"
+  [[params.plugins.css]]
+  URL = "https://fonts.googleapis.com/icon?family=Material+Icons"
 
   # JS Plugins
   [[params.plugins.js]]
