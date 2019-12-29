@@ -18,7 +18,7 @@ tags:
   - howto
 
 # post type
-type: post
+type: featured
 ---
 
 I’ve recently begun doing more work on ‘upstream’ or ‘standard’ Kubernetes as opposed to OpenShift. I’ve long had ways involving Ansible, bash, and probably dark magic to get OpenShift up and running for research purposes. But I didn’t have a lot of experience deploying ‘just’ Kubernetes. This post walks through what I needed to figure out to get a repeatable process up and running for my lab.
