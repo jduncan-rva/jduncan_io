@@ -2,7 +2,7 @@
 title: "about jduncan"
 date: 2019-10-29T13:49:23+06:00
 draft: false
-summary: Dad. Linux Pro. Kubernetes aficianado. BBQ snob. F1 junkie. Maker. Wannabe farmer.
+summary: Dad, Linux Pro, Kubernetes learner, Communicator, BBQ snob, F1 junkie, Maker, Wannabe farmer
 
 # image
 image: "images/jduncan-headshot.jpeg"
