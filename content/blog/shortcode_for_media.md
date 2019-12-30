@@ -3,6 +3,7 @@ title: "Getting to know Hugo shortcodes"
 date: 2019-12-28T21:49:22-05:00
 draft: false
 image: "/images/shortcode_for_media/birds.jpg"
+summary: "A quick introduction to Hugo shortcodes with examples"
 
 categories: 
   - Hugo

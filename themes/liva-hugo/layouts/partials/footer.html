@@ -23,50 +23,6 @@
 <footer>
   <div class="container mt-5">
     <div class="row">
-      <!-- <div class="col-12 text-center mb-5">
-        <a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}"></a>
-      </div> -->
-      <!-- <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Contact Me</h6>
-        <ul class="list-unstyled">
-          <li class="mb-3"><a class="text-dark" href="tel:{{ .Site.Params.mobile }}"><i
-                class="ti-mobile mr-3 text-primary"></i>{{ .Site.Params.mobile }}</a></li>
-          <li class="mb-3"><i class="ti-location-pin mr-3 text-primary"></i>{{ .Site.Params.location }}</li>
-          <li class="mb-3"><a class="text-dark" href="mailto:{{ .Site.Params.email }}"><i
-                class="ti-email mr-3 text-primary"></i>{{ .Site.Params.email }}</a>
-          </li>
-        </ul>
-      </div>
-      <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Social Contacts</h6>
-        <ul class="list-unstyled">
-          {{ range .Site.Params.social }}
-          <li class="mb-3"><a class="text-dark" href="{{ .link | safeURL }}">{{ .title }}</a></li>
-          {{ end }}
-        </ul>
-      </div> -->
-      <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Categories</h6>
-        {{- if isset .Site.Taxonomies "categories" }}
-        {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
-        <ul class="list-unstyled">
-          {{- range $name, $items := .Site.Taxonomies.categories }}
-          <li class="mb-3"><a class="text-dark"
-              href="{{ "categories/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | humanize }}</a>
-          </li>
-          {{- end }}
-        </ul>
-        {{- end }}
-        {{- end }}
-      </div>
-      <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Quick Links</h6>
-        <ul class="list-unstyled">
-          {{ range .Site.Menus.footer }}
-          <li class="mb-3"><a class="text-dark" href="{{ .URL | absURL }}">{{ .Name }}</a></li>
-          {{ end }}
-        </ul>
-      </div>
       <div class="col-12 border-top py-4 text-center">
         &copy;{{ dateFormat "2006" now }} {{ .Site.Params.author | markdownify }} - All Rights Reserved
       </div>
@@ -78,8 +34,6 @@
   var indexURL = {{ "index.json" | absURL }}
 </script>
 
-{{ "<!-- Google Map API -->" | safeHTML }}
-<script src="{{ .Site.Params.gmapAPI | absURL }}"></script>
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js}}
 <script src="{{ .URL | absURL }}"></script>

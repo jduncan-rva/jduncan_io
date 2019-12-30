@@ -2,6 +2,7 @@
 title: "Kubernetes 1.17 on a Raspberry Pi 4 Cluster"
 date: 2019-12-16T10:07:47+06:00
 draft: false
+summary: "Setting up kubernetes on a Raspberry Pi cluster"
 
 # post thumb
 image: "/images/kube_on_rpi/rpi_on_rack.jpeg"
