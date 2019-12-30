@@ -87,10 +87,9 @@ home = "Home"
 description = "Old tools, chickens, and Kubernetes"
 author = "Jamie Duncan"
 # google map
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
-mapMarker = "images/marker.png"
+gmapAPIKey = "AIzaSyBy2HbjbONDxt_X8txbQb7mXtcqtKkpnMQ"
+mapLat = 35.787743
+mapLon = -78.644257
 # Google Analitycs
 googleAnalitycsID = "UA-90496768-2"
 # Contact Information

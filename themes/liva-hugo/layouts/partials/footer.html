@@ -57,3 +57,24 @@
   ga('create', '{{ .Site.Params.googleAnalitycsID }}', 'auto');
   ga('send', 'pageview');
 </script>
+{{ "<!-- google maps --!>" | safeHTML }}
+<script>
+
+function initMap() {
+var myLatLng = {lat:{{ .Site.Params.mapLat }}, lng:{{ .Site.Params.mapLon }} };
+
+var map = new google.maps.Map(document.getElementById('map'), {
+  zoom: 7,
+  center: myLatLng
+});
+
+var marker = new google.maps.Marker({
+  position: myLatLng,
+  map: map,
+  title: 'Current Home, Raleigh'
+});
+}
+</script>
+<script async defer
+src="https://maps.googleapis.com/maps/api/js?key={{ .Site.Params.gmapAPIKey }}&callback=initMap">
+</script>
