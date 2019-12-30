@@ -1,5 +1,6 @@
 # rewrite blog to blog section 
 https://blog.jduncan.io/ https://jduncan.io/blog 200!
+https://kubernetes.jduncan.io https://jduncan.io/categories/kubernetes/ 200!
 
 # Optional: Redirect default Netlify subdomain to primary domain
 https://jduncanio.netlify.com/* https://jduncan.io/:splat 301!
