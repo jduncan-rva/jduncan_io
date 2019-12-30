@@ -10,7 +10,7 @@
           {{ range $paginator.Pages }}
           <div class="col-md-6 mb-4">
             <article class="card">
-              <img src="{{ .Params.Image | absURL }}" class="card-img-top" alt="{{ .Title | markdownify }}">
+              <img src="{{ .Params.Image | absURL }}" class="card-img-top" style="border-radius: 5px;" alt="{{ .Title | markdownify }}">
               <div class="card-body px-0">
                 {{ range .Params.Categories }}
                 <a href="{{ "categories/" | relLangURL }}{{ . | urlize | lower }}"
