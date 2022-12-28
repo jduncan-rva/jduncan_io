@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://jduncan.io"
 languageCode = "en-us"
-title = "jduncan.io | personal site and tech blog"
+title = "jduncan.io | tech. woodworking. home automation."
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -81,7 +81,7 @@ disqusShortname = "jduncan-io"
 
 #################### default parameters ################################
 [params]
-logo = "images/jduncan-logo.png"
+logo = "images/logo_black.png"
 home = "Home"
 # Meta data
 description = "Old tools, chickens, and Kubernetes"
@@ -97,7 +97,7 @@ mobile = "0124857985320"
 email = "demo@email.com"
 location = "Raleigh, NC"
 # copyright
-copyright = "| @2019 Jamie Duncan All Rights Reserved |"
+copyright = "| @2023 Jamie Duncan All Rights Reserved |"
 
   # Preloader
   [params.preloader]

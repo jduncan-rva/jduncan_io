@@ -13,7 +13,7 @@ tags:
   - design
 
 # post type
-type: featured
+type: post
 ---
 
 One of the biggest things that made me leary about getting to know Hugo over the years is its desire to use [Markdown](https://www.markdownguide.org/basic-syntax/). Yes, Hugo supports [asciidoc](http://asciidoc.org/) and [restructuredtext](https://docutils.sourceforge.io/rst.html). But its heart is in markdown. From the Hugo website:
