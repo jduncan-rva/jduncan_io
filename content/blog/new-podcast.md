@@ -16,7 +16,7 @@ tags:
 # options 
 # - post: normal blog post
 # - featured: featured blog post 
-type: featured
+type: post
 ---
 
 It seems like you can't throw a rock and not hit some IT wonk talking about their new podcast. Well, here's another one. 
