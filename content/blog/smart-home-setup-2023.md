@@ -3,7 +3,7 @@ title: "Smart Home Setup 2023"
 date: 2022-12-28T13:57:13-05:00
 draft: false
 image: "/images/smart-home-setup-2023/cover.jpeg"
-summary: "short summary for post"
+summary: "A tour of current state and future plans for our Smart Home setup."
 
 categories: 
   - smart home
