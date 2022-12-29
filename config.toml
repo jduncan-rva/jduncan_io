@@ -81,7 +81,7 @@ disqusShortname = "jduncan-io"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo_black.png"
+logo = "images/jduncan_io_logo_round.png"
 home = "Home"
 # Meta data
 description = "Old tools, chickens, and Kubernetes"
