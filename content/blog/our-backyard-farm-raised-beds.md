@@ -17,7 +17,7 @@ tags:
 # options 
 # - post: normal blog post
 # - featured: featured blog post 
-type: featured
+type: post
 ---
 
 In 2018, we moved from a small farm outside Richmond, VA to the Raleigh suburbs. We've always like the idea of grown food. We also think it's important that Elizabeth knows where food and life come from, and sometimes where it goes. We're slowly turning our backyard into something that will help make food and teach our kid how all of this works. One of the first things we've done is to build a nice big raised bed to begin our vegetable garden.
