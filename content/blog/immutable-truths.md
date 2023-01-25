@@ -3,7 +3,7 @@ title: "The 3 Immutable Truths of IT"
 date: 2023-01-25T19:31:05Z
 draft: false
 image: "/images/immutable-truths/courtroom.jpg"
-summary: "I've learned 3 laws that are true 100% of the time in my IT careeer. These are them."
+summary: "I've learned 3 laws that are true 100% of the time in my IT career. These are them."
 
 categories: 
   - technology
@@ -27,23 +27,23 @@ But I tend to get myself into lots of situations and condense my experience. A c
 
 In my travels, I've discovered that there are exactly 3 immutable truths in the IT industry. Everything else is conditional. But these three statements are postulates, not theorems. 
 
-*** It's a miracle the damned things ever work at all ***
+### It's a miracle the damned things ever work at all
 
 Every time you tell a computer to power up and it actually does, you should do a happy dance and bless your local dieties. The number of things that have to go exactly right every time something happens in a computer is almost beyond the comprehension of the human mind. 
 
 It's a miracle that they work as consistently as they do. 
 
-*** 100% of computers will break at some point in their lifecycle ***
+### 100% of computers will break at some point in their lifecycle 
 
 At some point, all computers succumb to the [Law of Large Numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers). Whether you call it that, or Murphy's Law that everything that can happen will happen. However you want to think about it. 
 
 At some point every computer will break. It's inevitable, and all designs that matter should take this into account.
 
-*** Virtually all failures are the human's fault ***
+### Virtually all failures are the human's fault 
 
 Computers have been designed to do _exactly_ what their told. When a computer is acting like a jackass, someone instructed it to act that way. By simple extension, we can say confidently that virtually all computer failures are the faults of the humans instructing those computers. 
 
-*** Conclusions *** 
+### Conclusions  
 
 I sometimes refer to these Truths sarcastically in conversations. But I'm totally sincere when I say that they're the guiding principles that I use to structure all of my interactions with computers. 
 
