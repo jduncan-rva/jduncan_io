@@ -2,7 +2,7 @@
 title: "The 3 Immutable Truths of IT"
 date: 2023-01-25T19:31:05Z
 draft: false
-image: "/images/some/path/"
+image: "/images/immutable-truths/courtroom.jpg"
 summary: "short summary for post"
 
 categories: 
