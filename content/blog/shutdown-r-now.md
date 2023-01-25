@@ -17,7 +17,7 @@ tags:
 # options 
 # - post: normal blog post
 # - featured: featured blog post 
-type: featured
+type: post
 ---
 
 I'm not huge on New Years resolutions (I always forget to cancel the gym membership the following summer). But I do typically take some time off at the end of the year. During that time I try to be a little introspective about what has worked well in the past year and what needs improvement. One of the things that jumped out at me this year is that social media, at least in my life, has evolved from necessary evil to outright evil. 
