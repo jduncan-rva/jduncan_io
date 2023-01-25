@@ -47,8 +47,8 @@ Computers have been designed to do _exactly_ what their told. When a computer is
 
 I sometimes refer to these Truths sarcastically in conversations. But I'm totally sincere when I say that they're the guiding principles that I use to structure all of my interactions with computers. 
 
-I'm happy when they work.
-I assume they're going to fail.
-I start troubleshooting by thinking that it's my fault.
+* I'm happy when they work.
+* I assume they're going to fail.
+* I start troubleshooting by thinking that it's my fault.
 
 It's hard not to fix most problems with those as your guideposts.
