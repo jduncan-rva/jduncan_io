@@ -1,7 +1,7 @@
 ---
 title: "On Craftspeople and Artists"
 date: 2023-01-01T13:06:57-05:00
-draft: false
+draft: true
 image: "/images/on-craftspeople-and-artists/anvil.jpeg"
 summary: "Making sense of the most effective ways to work I've observed in my career. Craftspeople and Artists."
 
