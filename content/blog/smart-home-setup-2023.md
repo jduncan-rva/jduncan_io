@@ -20,7 +20,7 @@ tags:
 # options 
 # - post: normal blog post
 # - featured: featured blog post 
-type: featured
+type: post
 ---
 
 As I dive into 2023, a focus for my home is to really tighten up my smart home configuration. I spent a little time this fall working on some broad strokes to set up for a really fun 2023 to make our house lots of fun to live in. Here's a summary of what I'm currently running.
